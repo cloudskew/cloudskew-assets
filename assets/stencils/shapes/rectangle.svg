@@ -1,0 +1,11 @@
+<svg width="20" height="20" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden">
+    <defs>
+        <clipPath id="clip0">
+            <path d="M999 561 1151 561 1151 714 999 714Z" fill-rule="evenodd" clip-rule="evenodd" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#clip0)" transform="translate(-999 -561)">
+        <path d="M1000 563 1150 563 1150 713 1000 713Z" fill="#59B4D9" fill-rule="evenodd" />
+    </g>
+</svg>

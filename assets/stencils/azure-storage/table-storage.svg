@@ -1,0 +1,22 @@
+<g>
+	<path fill="#3E3E3E" d="M43,3H6C2.686,3,0,5.686,0,9v5v22v8c0,3.314,2.686,6,6,6h37c3.314,0,6-2.686,6-6v-8V14V9 C49,5.686,46.314,3,43,3z"></path>
+	<rect x="34" y="7" opacity="0.9" fill="#FFFFFF" width="11" height="11"></rect>
+	<rect x="19" y="7" opacity="0.9" fill="#FFFFFF" width="11" height="11"></rect>
+	<rect x="4" y="7" opacity="0.9" fill="#FFFFFF" width="11" height="11"></rect>
+	<rect x="34" y="21" opacity="0.9" fill="#FFFFFF" width="11" height="11"></rect>
+	<rect x="19" y="21" fill="#FCD116" width="11" height="11"></rect>
+	<rect x="4" y="21" opacity="0.9" fill="#FFFFFF" width="11" height="11"></rect>
+	<rect x="34" y="35" fill="#FCD116" width="11" height="11"></rect>
+	<rect x="34" y="35" opacity="0.3" fill="#FFFFFF" width="11" height="2"></rect>
+	<rect x="19" y="35" fill="#FCD116" width="11" height="11"></rect>
+	<rect x="4" y="35" fill="#FCD116" width="11" height="11"></rect>
+	<rect x="19" y="35" opacity="0.3" fill="#FFFFFF" width="11" height="2"></rect>
+	<rect x="4" y="35" opacity="0.3" fill="#FFFFFF" width="11" height="2"></rect>
+	<rect x="4" y="21" opacity="0.6" fill="#FFFFFF" width="11" height="2"></rect>
+	<rect x="19" y="21" opacity="0.3" fill="#FFFFFF" width="11" height="2"></rect>
+	<rect x="34" y="21" opacity="0.6" fill="#FFFFFF" width="11" height="2"></rect>
+	<rect x="34" y="7" opacity="0.6" fill="#FFFFFF" width="11" height="2"></rect>
+	<rect x="19" y="7" opacity="0.6" fill="#FFFFFF" width="11" height="2"></rect>
+	<rect x="4" y="7" opacity="0.6" fill="#FFFFFF" width="11" height="2"></rect>
+	<path opacity="0.15" fill="#FFFFFF" d="M6,50h2.88L41.994,3H6C2.686,3,0,5.686,0,9v5v22v8 C0,47.314,2.686,50,6,50z"></path>
+</g>

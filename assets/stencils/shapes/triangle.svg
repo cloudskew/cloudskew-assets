@@ -1,10 +1,3 @@
 <g>
-	<defs>
-		<clipPath id="clip0">
-			<path d="M999 561 1151 561 1151 714 999 714Z" fill-rule="evenodd" clip-rule="evenodd"></path>
-		</clipPath>
-	</defs>
-	<g clip-path="url(#clip0)" transform="translate(-999 -561)">
-		<path d="M1000 713 1073.44 563 1150 713Z" fill="#59B4D9" fill-rule="evenodd"></path>
-	</g>
+	<polygon points="450,559.8076211353316 0,300.00000000000006 449.9999999999998,40.192378864668285" />
 </g>

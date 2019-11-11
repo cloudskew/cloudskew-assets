@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" height="20px" width="20px" viewBox="0 0 100 100">
+    <defs>
+        <clipPath id="clip0">
+            <path d="M639 359 737 359 737 457 639 457Z" fill-rule="evenodd" clip-rule="evenodd"></path>
+        </clipPath>
+    </defs>
+    <g clip-path="url(#clip0)" transform="translate(-639 -359)">
+        <path d="M640 456 664 360 736 360 712 456Z" fill="#59B4D9" fill-rule="evenodd"></path>
+    </g>
+</svg>

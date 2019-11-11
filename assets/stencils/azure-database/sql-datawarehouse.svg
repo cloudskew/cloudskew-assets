@@ -1,4 +1,4 @@
-<g>
+<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" height="20px" width="20px" viewBox="0 0 400 400">
 	<rect x="107.3" y="128.6" style="fill:#7FBB42;" width="35.7" height="35.7"></rect>
 	<rect x="79" y="225.4" style="fill:#7FBB42;" width="35.7" height="35.7"></rect>
 	<rect x="129.8" y="225.4" style="fill:#7FBB42;" width="35.7" height="35.7"></rect>
@@ -36,4 +36,4 @@
 			<path style="fill:#FFFFFF;" d="M372.7,306.1h-29.2V257h11v40h18.2L372.7,306.1L372.7,306.1z"></path>
 		</g>
 	</g>
-</g>
+</svg>

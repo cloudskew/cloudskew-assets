@@ -6,18 +6,33 @@ trigger:
 pool:
   vmImage: ubuntu-latest
 
-steps:
-# We'd have preferred to use the Azure File Copy task (- task: AzureFileCopy@3). 
-# However that task does not work on non-windows environment:
-# https://github.com/Microsoft/azure-pipelines-tasks/issues/8920
-# Some possible workarounds are to
-# 1: directly run the AZ CLI command to upload to blob storage (- script: az cli ...).
-# 2: use the AZ CLI built-in task (- task: AzureCLI@2).
-# 3: use the azcopy utility (- script: azcopy ...).
-# Let's go with #2 since there is direct integration with the service principal connection.
-- task: AzureCLI@1
-  inputs:
-    azureSubscription: cloudskew-testing-service-principal
-    scriptLocation: inlineScript
-    inlineScript: az storage blob sync --account-name cloudskewcdntest -c 'assets' -s './assets'
-    
+variables:
+  azureSubscription: cloudskew-testing-service-principal
+  storageAccountName: cloudskewcdntest
+
+stages:
+  - stage: build
+    jobs:
+      - job: build
+
+  - stage: test
+    jobs:
+      - job: test
+
+  - stage: deploy
+    jobs:
+      - job: deploy
+        steps:
+          # We'd have preferred to use the Azure File Copy task (- task: AzureFileCopy@3). 
+          # However that task does not work on non-windows environment:
+          # https://github.com/Microsoft/azure-pipelines-tasks/issues/8920
+          # Some possible workarounds are to
+          # 1: directly run the AZ CLI command to upload to blob storage (- script: az cli ...).
+          # 2: use the AZ CLI built-in task (- task: AzureCLI@2).
+          # 3: use the azcopy utility (- script: azcopy ...).
+          # Let's go with #2 since there is direct integration with the service principal connection.
+          - task: AzureCLI@1
+            inputs:
+              azureSubscription: $(azureSubscription)
+              scriptLocation: inlineScript
+              inlineScript: az storage blob sync --account-name $(storageAccountName) -c 'assets' -s './assets'

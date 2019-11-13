@@ -32,6 +32,7 @@ stages:
           # 3: use the azcopy utility (- script: azcopy ...).
           # Let's go with #2 since there is direct integration with the service principal connection.
           - task: AzureCLI@1
+            displayName: deploy to azure storage
             inputs:
               azureSubscription: $(azureSubscription)
               scriptLocation: inlineScript

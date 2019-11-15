@@ -22,6 +22,7 @@ stages:
     displayName: deploy to testing environment
     jobs:
       - job: deploy
+        displayName: deploy to testing environment
         steps:
           # We'd have preferred to use the Azure File Copy task (- task: AzureFileCopy@3). 
           # However that task does not work on non-windows environment:

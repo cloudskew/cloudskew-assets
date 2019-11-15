@@ -7,8 +7,7 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  azureSubscription: cloudskew-testing-service-principal
-  storageAccountName: cloudskewcdntest
+  - group: cloudskew-variable-group
 
 stages:
   - stage: build
@@ -19,7 +18,8 @@ stages:
     jobs:
       - job: test
 
-  - stage: deploy
+  - stage: deploy_test_env
+    displayName: deploy to testing environment
     jobs:
       - job: deploy
         steps:
@@ -34,6 +34,6 @@ stages:
           - task: AzureCLI@1
             displayName: deploy to azure storage
             inputs:
-              azureSubscription: $(azureSubscription)
+              azureSubscription: $(testing-service-connection)
               scriptLocation: inlineScript
-              inlineScript: az storage blob sync --account-name $(storageAccountName) -c 'assets' -s './assets'
+              inlineScript: az storage blob sync --account-name $(testing-storageaccount-name-cloudskew-cdn) -c 'assets' -s './assets'

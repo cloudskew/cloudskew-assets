@@ -21,20 +21,24 @@ stages:
   - stage: deploy_test_env
     displayName: deploy to testing environment
     jobs:
-      - job: deploy
+      - deployment: deploy_test_env
         displayName: deploy to testing environment
-        steps:
-          # We'd have preferred to use the Azure File Copy task (- task: AzureFileCopy@3). 
-          # However that task does not work on non-windows environment:
-          # https://github.com/Microsoft/azure-pipelines-tasks/issues/8920
-          # Some possible workarounds are to
-          # 1: directly run the AZ CLI command to upload to blob storage (- script: az cli ...).
-          # 2: use the AZ CLI built-in task (- task: AzureCLI@2).
-          # 3: use the azcopy utility (- script: azcopy ...).
-          # Let's go with #2 since there is direct integration with the service principal connection.
-          - task: AzureCLI@1
-            displayName: deploy to azure storage
-            inputs:
-              azureSubscription: $(testing-service-connection)
-              scriptLocation: inlineScript
-              inlineScript: az storage blob sync --account-name $(testing-storageaccount-name-cloudskew-cdn) -c 'assets' -s './assets'
+        environment: testing
+        strategy:
+          runOnce:
+            deploy:
+              steps:
+                # We'd have preferred to use the Azure File Copy task (- task: AzureFileCopy@3). 
+                # However that task does not work on non-windows environment:
+                # https://github.com/Microsoft/azure-pipelines-tasks/issues/8920
+                # Some possible workarounds are to
+                # 1: directly run the AZ CLI command to upload to blob storage (- script: az cli ...).
+                # 2: use the AZ CLI built-in task (- task: AzureCLI@2).
+                # 3: use the azcopy utility (- script: azcopy ...).
+                # Let's go with #2 since there is direct integration with the service principal connection.
+                - task: AzureCLI@1
+                  displayName: deploy to azure storage
+                  inputs:
+                    azureSubscription: $(testing-service-connection)
+                    scriptLocation: inlineScript
+                    inlineScript: az storage blob sync --account-name $(testing-storageaccount-name-cloudskew-cdn) -c 'assets' -s './assets'

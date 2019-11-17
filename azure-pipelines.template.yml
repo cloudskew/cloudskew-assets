@@ -1,8 +1,0 @@
-stages:
-  - stage: build
-    jobs:
-      - job: build
-
-  - stage: test
-    jobs:
-      - job: test

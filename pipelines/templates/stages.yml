@@ -1,15 +1,12 @@
-# Deploys cloudskew-landing to testing environment (blob storage accessed via cdn).
-
-trigger:
-- master
-
-pool:
-  vmImage: ubuntu-latest
-
-variables:
-  - group: cloudskew-variable-group
+parameters:
+  # default values for any parameters that aren't specified.
+  # please keep this list alphabetically sorted.
+  azureSubscription: ''
+  environment: ''
+  storageAccountName: ''
 
 stages:
+
   - stage: build
     jobs:
       - job: build
@@ -18,12 +15,12 @@ stages:
     jobs:
       - job: test
 
-  - stage: deploy_test_env
-    displayName: deploy to testing environment
+  - stage: deploy
+    displayName: deploy to ${{parameters.environment}} environment
     jobs:
-      - deployment: deploy_test_env
-        displayName: deploy to testing environment
-        environment: testing
+      - deployment: deploy
+        displayName: deploy to ${{parameters.environment}} environment
+        environment: ${{parameters.environment}}
         strategy:
           runOnce:
             deploy:
@@ -39,18 +36,6 @@ stages:
                 - task: AzureCLI@1
                   displayName: deploy to azure storage
                   inputs:
-                    azureSubscription: $(testing-service-connection)
+                    azureSubscription: ${{parameters.azureSubscription}}
                     scriptLocation: inlineScript
-                    inlineScript: az storage blob sync --account-name $(testing-storageaccount-name-cloudskew-cdn) -c 'assets' -s './assets'
-
-  - stage: deploy_prod_env
-    displayName: deploy to production environment
-    jobs:
-      - deployment: deploy_prod_env
-        displayName: deploy to production environment
-        environment: production
-        strategy:
-          runOnce:
-            deploy:
-              steps:
-                - script: echo 'Testing deployment to prod. Delete this later.'
+                    inlineScript: az storage blob sync --account-name ${{parameters.storageAccountName}} -c 'assets' -s './assets'

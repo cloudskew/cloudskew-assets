@@ -16,6 +16,8 @@ stages:
       - job: test
 
   - stage: deploy
+    # don't execute this stage if triggered via pull-request.
+    condition: and(succeeded(), ne(variables['build.reason'], 'PullRequest'))
     displayName: deploy to ${{parameters.environment}} environment
     jobs:
       - deployment: deploy

@@ -42,3 +42,15 @@ stages:
                     azureSubscription: $(testing-service-connection)
                     scriptLocation: inlineScript
                     inlineScript: az storage blob sync --account-name $(testing-storageaccount-name-cloudskew-cdn) -c 'assets' -s './assets'
+
+  - stage: deploy_prod_env
+    displayName: deploy to production environment
+    jobs:
+      - deployment: deploy_prod_env
+        displayName: deploy to production environment
+        environment: production
+        strategy:
+          runOnce:
+            deploy:
+              steps:
+                - script: echo 'Testing deployment to prod. Delete this later.'

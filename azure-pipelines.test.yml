@@ -1,0 +1,7 @@
+# Deploys cloudskew-landing to production environment (blob storage accessed via cdn).
+
+pool:
+  vmImage: ubuntu-latest
+
+stages:
+  - template: azure-pipelines.template.yml

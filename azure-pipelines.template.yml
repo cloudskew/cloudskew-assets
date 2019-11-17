@@ -1,0 +1,11 @@
+variables:
+  - group: cloudskew-variable-group
+
+stages:
+  - stage: build
+    jobs:
+      - job: build
+
+  - stage: test
+    jobs:
+      - job: test

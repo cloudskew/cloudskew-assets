@@ -1,7 +1,12 @@
-# Deploys cloudskew-landing to production environment (blob storage accessed via cdn).
+# Deploys cloudskew-landing to testing environment (blob storage accessed via cdn).
+
+name: cloudskew-cdn.test
 
 pool:
   vmImage: ubuntu-latest
+
+variables:
+  - template: azure-pipelines.template.yml
 
 stages:
   - template: azure-pipelines.template.yml

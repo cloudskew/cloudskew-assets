@@ -56,4 +56,3 @@ stages:
                     azureSubscription: ${{parameters.azureSubscription}}
                     scriptLocation: inlineScript
                     inlineScript: az storage blob sync --account-name ${{parameters.storageAccountName}} -c 'assets' -s './assets'
-                    failOnStandardError: true

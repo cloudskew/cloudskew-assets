@@ -10,6 +10,12 @@ stages:
   - stage: build
     jobs:
       - job: build
+          # Publish the pipeline artifact
+          - task: PublishPipelineArtifact@1
+            displayName: publish artifact
+            inputs:
+              artifact: dist
+              targetPath: .
 
   - stage: test
     jobs:
@@ -27,8 +33,14 @@ stages:
           runOnce:
             deploy:
               steps:
-                - script: pwd
-                - script: ls -la
+                # Let's now download the artifact we published earlier.
+                # Note: Artifacts are the only mechanism via which a stage can consume the 
+                # output of an earlier stage
+                - task: DownloadPipelineArtifact@2
+                  displayName: download artifact
+                  inputs:
+                    artifactName: dist
+                    targetPath: .
                 # We'd have preferred to use the Azure File Copy task (- task: AzureFileCopy@3). 
                 # However that task does not work on non-windows environment:
                 # https://github.com/Microsoft/azure-pipelines-tasks/issues/8920

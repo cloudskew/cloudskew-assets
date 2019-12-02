@@ -27,6 +27,8 @@ stages:
           runOnce:
             deploy:
               steps:
+                - script: pwd
+                - script: ls -la
                 # We'd have preferred to use the Azure File Copy task (- task: AzureFileCopy@3). 
                 # However that task does not work on non-windows environment:
                 # https://github.com/Microsoft/azure-pipelines-tasks/issues/8920

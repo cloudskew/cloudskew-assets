@@ -3,8 +3,7 @@
 pool:
   vmImage: ubuntu-latest
 
-trigger:
-  - master
+trigger: none
 
 name: cloudskew-cdn.production
 
@@ -16,4 +15,4 @@ stages:
     parameters:
       azureSubscription: $(production-service-connection)
       environment: production
-      storageAccountName: $(production-storageaccount-name-cloudskew-cdn) 
+      storageAccountName: $(production-storageaccount-name-cloudskew-cdn)

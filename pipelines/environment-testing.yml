@@ -16,4 +16,4 @@ stages:
     parameters:
       azureSubscription: $(testing-service-connection)
       environment: testing
-      storageAccountName: $(testing-storageaccount-name-cloudskew-cdn) 
+      storageAccountName: $(testing-storageaccount-name-cloudskew-cdn)

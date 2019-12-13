@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" height="20px" width="20px" viewBox="0 0 100 100">
-	<defs>
-		<clipPath id="clip0">
-			<path d="M639 359 737 359 737 458 639 458Z" fill-rule="evenodd" clip-rule="evenodd"></path>
-		</clipPath>
-	</defs>
-	<g clip-path="url(#clip0)" transform="translate(-639 -359)">
-		<path d="M640 397.051 676.669 397.051 688 360 699.331 397.051 736 397.051 706.334 419.949 717.666 457 688 434.101 658.334 457 669.666 419.949Z" fill="#59B4D9" fill-rule="evenodd"></path>
-	</g>
+<defs>
+<clipPath id="clip0">
+<path d="M639 359 737 359 737 458 639 458Z" fill-rule="evenodd" clip-rule="evenodd"></path>
+</clipPath>
+</defs>
+<g clip-path="url(#clip0)" transform="translate(-639 -359)">
+<path d="M640 397.051 676.669 397.051 688 360 699.331 397.051 736 397.051 706.334 419.949 717.666 457 688 434.101 658.334 457 669.666 419.949Z" fill="#59B4D9" fill-rule="evenodd"></path>
+</g>
 </svg>

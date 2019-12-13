@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" height="20px" width="20px" viewBox="0 0 50 50">
-<path fill="#3E3E3E" d="M44,50H6c-3.314,0-6-2.686-6-6V5h50v39C50,47.314,47.314,50,44,50z"></path>
-<rect x="4" y="16" opacity="0.9" fill="#FCD116" width="42" height="11"></rect>
-<rect x="4" y="31" fill="#7FBA00" width="42" height="15"></rect>
-<rect x="4" y="5" opacity="0.9" fill="#FFFFFF" width="42" height="7"></rect>
-<rect x="4" y="31" opacity="0.3" fill="#FFFFFF" width="42" height="2"></rect>
-<rect x="4" y="16" opacity="0.3" fill="#FFFFFF" width="42" height="2"></rect>
-<path opacity="0.15" fill="#FFFFFF" d="M0,5v42.693C0,48.907,0.985,49.9,2.188,49.9H8L40,5H0z"></path>
+<path fill="#3E3E3E" d="M44,0H6C2.686,0,0,2.686,0,6v8v22v8c0,3.314,2.686,6,6,6h38c3.314,0,6-2.686,6-6v-8V14V6 C50,2.686,47.314,0,44,0z"></path>
+<rect x="4" y="20" fill="#B8D432" width="42" height="11"></rect>
+<rect x="4" y="35" fill="#804998" width="42" height="11"></rect>
+<rect x="4" y="5" fill="#59B4D9" width="42" height="11"></rect>
+<rect x="4" y="20" opacity="0.25" fill="#FFFFFF" width="42" height="2"></rect>
+<rect x="4" y="5" opacity="0.2" fill="#FFFFFF" width="42" height="2"></rect>
+<rect x="4" y="35" opacity="0.4" fill="#FFFFFF" width="42" height="2"></rect>
+<path opacity="0.15" fill="#FFFFFF" d="M6,50h2.88L42.994,0H6C2.686,0,0,2.686,0,6v8v22v8 C0,47.314,2.686,50,6,50z"></path>
 </svg>

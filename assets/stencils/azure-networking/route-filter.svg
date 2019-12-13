@@ -1,21 +1,12 @@
-<svg x="0px" y="0px" width="20px" height="20px" viewBox="0 0 50 50" class="fxs-portal-svg" role="presentation"
-    focusable="false" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-    id="FxSymbol0-073">
-    <g>
-        <title></title>
-        <path d="M41.681 36.313L39.199 46l-8.605-5.095z" class="msportalfx-svg-c17" fill="#804998"></path>
-        <path
-            d="M24.025 25.996s-.475.862-1 1c6.594 0 10.902 10.95 13.469 17.34l3.331-.962c-2.623-6.939-5.8-17.378-15.8-17.378zm17.656-12.317l-2.482-9.687-8.605 5.095z"
-            class="msportalfx-svg-c17" fill="#804998"></path>
-        <path
-            d="M24.025 23.996s-.475-.862-1-1c6.594 0 10.902-10.95 13.469-17.34l3.331.962c-2.623 6.939-5.8 17.378-15.8 17.378zm18.018-5l8 6-8 6z"
-            class="msportalfx-svg-c17" fill="#804998"></path>
-        <path d="M45.204 22.996V27H21v-4.004z" class="msportalfx-svg-c17" fill="#804998"></path>
-        <path
-            d="M4.754 38H19a4.754 4.754 0 0 0 4.754-4.754V16.75A4.754 4.754 0 0 0 19 11.996H4.754A4.753 4.753 0 0 0 0 16.75v16.497A4.753 4.753 0 0 0 4.754 38z"
-            class="msportalfx-svg-c14" fill="#7fba00"></path>
-        <path opacity=".2" d="M4.754 38L19 11.996H4.754A4.753 4.753 0 0 0 0 16.75v16.497A4.753 4.753 0 0 0 4.754 38z"
-            class="msportalfx-svg-c01" fill="#ffffff"></path>
-        <path d="M14 21.996h6v6h-6zM4 16h6v6H4zm0 12h6v6H4z" class="msportalfx-svg-c01" fill="#ffffff"></path>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="20px" height="20px" viewBox="0 0 50 50">
+<g>
+<title></title>
+<path class="msportalfx-svg-c17" fill="#804998" d="M 41.681 36.313 L 39.199 46 l -8.605 -5.095 Z"></path>
+<path class="msportalfx-svg-c17" fill="#804998" d="M 24.025 25.996 s -0.475 0.862 -1 1 c 6.594 0 10.902 10.95 13.469 17.34 l 3.331 -0.962 c -2.623 -6.939 -5.8 -17.378 -15.8 -17.378 Z m 17.656 -12.317 l -2.482 -9.687 l -8.605 5.095 Z"></path>
+<path class="msportalfx-svg-c17" fill="#804998" d="M 24.025 23.996 s -0.475 -0.862 -1 -1 c 6.594 0 10.902 -10.95 13.469 -17.34 l 3.331 0.962 c -2.623 6.939 -5.8 17.378 -15.8 17.378 Z m 18.018 -5 l 8 6 l -8 6 Z"></path>
+<path class="msportalfx-svg-c17" fill="#804998" d="M 45.204 22.996 V 27 H 21 v -4.004 Z"></path>
+<path class="msportalfx-svg-c14" fill="#7fba00" d="M 4.754 38 H 19 a 4.754 4.754 0 0 0 4.754 -4.754 V 16.75 A 4.754 4.754 0 0 0 19 11.996 H 4.754 A 4.753 4.753 0 0 0 0 16.75 v 16.497 A 4.753 4.753 0 0 0 4.754 38 Z"></path>
+<path class="msportalfx-svg-c01" opacity="0.2" fill="#ffffff" d="M 4.754 38 L 19 11.996 H 4.754 A 4.753 4.753 0 0 0 0 16.75 v 16.497 A 4.753 4.753 0 0 0 4.754 38 Z"></path>
+<path class="msportalfx-svg-c01" fill="#ffffff" d="M 14 21.996 h 6 v 6 h -6 Z M 4 16 h 6 v 6 H 4 Z m 0 12 h 6 v 6 H 4 Z"></path>
+</g>
 </svg>

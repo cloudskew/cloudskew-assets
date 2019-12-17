@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" height="20px" width="20px" viewBox="0 0 100 100">
 <defs>
-<clipPath id="clip0">
+<clipPath id="clip0-FD6E5D0B-730B-4131-B2CB-B9953B4649C3">
 <path d="M626 359 751 359 751 461 626 461Z" fill-rule="evenodd" clip-rule="evenodd"></path>
 </clipPath>
 </defs>
-<g clip-path="url(#clip0)" transform="translate(-626 -359)">
+<g clip-path="url(#clip0-FD6E5D0B-730B-4131-B2CB-B9953B4649C3)" transform="translate(-626 -359)">
 <rect x="640.5" y="360.5" width="96" height="95" stroke="#2F528F" stroke-miterlimit="8" fill="#59B4D9"></rect>
 <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="43" transform="translate(651.75 423)">ABC</text>
 </g>

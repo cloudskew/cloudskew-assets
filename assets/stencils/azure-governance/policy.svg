@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" height="20px" width="20px" viewBox="0 0 18 18">
 <g>
 <title></title>
-<circle class="msportalfx-svg-c15" fill="#59b4d9" cx="8.956" cy="9.004" r="2.5"></circle>
-<circle class="msportalfx-svg-c15" fill="#59b4d9" cx="13.116" cy="6.664" r="1.224"></circle>
-<circle class="msportalfx-svg-c15" fill="#59b4d9" cx="13.116" cy="11.344" r="1.224"></circle>
-<circle class="msportalfx-svg-c15" fill="#59b4d9" cx="15.956" cy="13.011" r="1.044"></circle>
-<circle class="msportalfx-svg-c15" fill="#59b4d9" cx="15.956" cy="5.011" r="1"></circle>
-<circle class="msportalfx-svg-c15" fill="#59b4d9" cx="15.956" cy="9.004" r="1"></circle>
-<circle class="msportalfx-svg-c16" fill="#3999c6" cx="12.644" cy="2.884" r="0.72"></circle>
-<path class="msportalfx-svg-c16" fill="#3999c6" d="M 8.976 16.344 l -6.58 -3.682 V 5.338 l 6.58 -3.682 l 3.284 1.838 l 0.726 -1.244 L 8.976 0 L 0.956 4.5 v 9 l 8.02 4.5 l 4.01 -2.25 l -0.726 -1.244 Z"></path>
-<circle class="msportalfx-svg-c16" fill="#3999c6" cx="12.644" cy="15.116" r="0.72"></circle>
+<circle fill="#59b4d9" cx="8.956" cy="9.004" r="2.5"></circle>
+<circle fill="#59b4d9" cx="13.116" cy="6.664" r="1.224"></circle>
+<circle fill="#59b4d9" cx="13.116" cy="11.344" r="1.224"></circle>
+<circle fill="#59b4d9" cx="15.956" cy="13.011" r="1.044"></circle>
+<circle fill="#59b4d9" cx="15.956" cy="5.011" r="1"></circle>
+<circle fill="#59b4d9" cx="15.956" cy="9.004" r="1"></circle>
+<circle fill="#3999c6" cx="12.644" cy="2.884" r="0.72"></circle>
+<path fill="#3999c6" d="M 8.976 16.344 l -6.58 -3.682 V 5.338 l 6.58 -3.682 l 3.284 1.838 l 0.726 -1.244 L 8.976 0 L 0.956 4.5 v 9 l 8.02 4.5 l 4.01 -2.25 l -0.726 -1.244 Z"></path>
+<circle fill="#3999c6" cx="12.644" cy="15.116" r="0.72"></circle>
 </g>
 </svg>

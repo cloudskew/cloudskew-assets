@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="20px" height="20px" viewBox="0 0 64 64">
+<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g transform="translate(5.000000, 5.000000)">
+<path d="M54,15 L54,4.219 C54,1.889 52.111,0 49.781,0 L4.219,0 C1.889,0 0,1.889 0,4.219 L0,15 L54,15 Z" fill="#F04E98"></path>
+<polygon fill="#00BFB3" points="0 34 54 34 54 20 0 20"></polygon>
+<path d="M29.5313,39 L29.5313,54 L49.7813,54 C52.1113,54 54.0003,52.111 54.0003,49.781 L54.0003,39 L29.5313,39 Z" fill="#FEC514"></path>
+<path d="M24.4688,39 L-0.0002,39 L-0.0002,49.781 C-0.0002,52.111 1.8888,54 4.2188,54 L24.4688,54 L24.4688,39 Z" fill="#0077CC"></path>
+</g>
+</g>
+</svg>

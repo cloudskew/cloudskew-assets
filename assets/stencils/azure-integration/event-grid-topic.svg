@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="20px" height="20px" viewBox="0 0 50 50">
 <g>
-<title></title>
 <path fill="#0072c6" d="M 3.167 13 h 22.667 v 4 H 3.167 Z m 5 10 h 25.667 v 4 H 8.167 Z m -5 10 h 22.667 v 4 H 3.167 Z"></path>
 <circle fill="#b8d432" cx="4" cy="35" r="3.9"></circle>
 <ellipse fill="#b8d432" transform="rotate(-45.001 4 15)" cx="4" cy="15" rx="3.9" ry="3.9"></ellipse>

@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="20px" height="20px" viewBox="0 0 50 50">
 <g>
-<title></title>
 <path fill="#a0a1a2" d="M 2 46 h 46 a 2 2 0 0 0 2 -2 V 11 H 0 v 33 a 2 2 0 0 0 2 2 Z"></path>
 <path fill="#7a7a7a" d="M 0 5.988 V 11 h 50 V 5.988 A 1.994 1.994 0 0 0 48 4 H 2 C 0.895 4 0 4.89 0 5.988 Z"></path>
 <path fill="#ffffff" d="M 4 25 h 42 v 7 H 4 Z m 0 -10 h 42 v 7 H 4 Z"></path>

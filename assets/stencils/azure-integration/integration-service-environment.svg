@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="20px" height="20px" viewBox="0 0 50 50">
 <g>
-<title></title>
 <circle fill="#0072c6" cx="25" cy="25" r="23.9"></circle>
 <circle opacity="0.8" fill="#ffffff" cx="25" cy="25" r="21"></circle>
 <path fill="#3999c6" d="M 25.9 20.4 v -5 h -2.5 v 5 c 0 0.9 -0.8 1.7 -2.1 2.1 l -3.4 0.7 c -2.3 0.7 -3.9 2.5 -3.9 4.5 v 5.7 h 2.5 v -5.7 c 0 -0.9 0.8 -1.7 2.1 -2.1 l 3.4 -0.8 c 2.3 -0.6 3.9 -2.4 3.9 -4.4 Z"></path>

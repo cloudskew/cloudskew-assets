@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,7 +11,7 @@
    viewBox="0 0 18.035334 17.500378"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="netpol.svg">
+   sodipodi:docname="c-role.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -23,7 +20,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="8"
      inkscape:cx="16.847496"
-     inkscape:cy="23.752239"
+     inkscape:cy="33.752239"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -68,17 +65,32 @@
     </g>
     <text
        y="16.811775"
-       x="10.017183"
+       x="10.014427"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332px"
          y="16.811775"
-         x="10.017183"
-         sodipodi:role="line">netpol</tspan></text>
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.4190996"
-       d="m 9.489284,4.611987 c -2.3134298,0 -4.1909959,1.877567 -4.1909959,4.1909968 0,2.3134302 1.8775661,4.1909962 4.1909959,4.1909962 0.518788,0 1.013889,-0.09837 1.472578,-0.270944 l 0,-0.987172 c 0,-0.335904 0.274739,-0.900641 0.610641,-0.900646 l 0,-0.9159582 c 0,-0.459262 0.684616,-1.236604 1.527425,-1.236604 0.205882,0 0.401081,0.04145 0.580353,0.11541 C 13.677581,6.486915 11.801062,4.611981 9.489284,4.611981 Z m 0.8382,1.466849 1.466847,1.4668488 -1.047748,0 0,1.676398 -0.8381984,0 0,-1.676398 -1.0477506,0 z m -2.095496,2.3050478 0.8382,0 0,1.6763992 1.04775,0 -1.466851,1.466848 -1.4668458,-1.466848 1.0477488,0 z m 4.973532,1.039564 c -0.598162,0 -1.083765,0.485603 -1.083765,1.0837672 l 0,0.64993 c -0.238401,0 -0.433013,0.194618 -0.433013,0.433015 l 0,1.734515 c 0,0.238401 0.194616,0.433017 0.433013,0.433017 l 2.167531,0 c 0.238398,0 0.433013,-0.194616 0.433013,-0.433017 l 0,-1.734515 c 0,-0.238397 -0.194615,-0.433015 -0.433013,-0.433015 l 0,-0.64993 c 0,-0.5981642 -0.485602,-1.0837672 -1.083766,-1.0837672 z m 0,0.433014 c 0.359768,0 0.649933,0.2909862 0.649933,0.6507532 l 0,0.64993 -1.299865,0 0,-0.64993 c 0,-0.359767 0.290167,-0.6507532 0.649932,-0.6507532 z"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssscscsscsccccccccccccccccsscsssssscssssccss" />
+         x="10.014427"
+         sodipodi:role="line">c.role</tspan></text>
+    <g
+       >
+      <ellipse
+         pointer-events="none"
+         ry="0.50229818"
+         rx="0.50633514"
+         cy="9.9493122"
+         cx="9.9282999"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12665248" />
+      <path
+         pointer-events="none"
+         d="m 10.010926,5.8761701 -3.1080511,1.374181 0,2.0505009 c 0,1.901056 1.3247841,3.677988 3.1080511,4.109873 1.780734,-0.431885 3.106786,-2.208817 3.106786,-4.109873 l 0,-2.0505009 z m 1.645216,5.5182459 -3.291698,0 0,-2.7635579 0.472414,0 0,-0.301428 c 0,-0.650995 0.53194,-1.17914 1.189266,-1.17914 0.657327,0 1.189267,0.528145 1.189267,1.17914 l 0,0.301428 0.440751,0 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12665248" />
+      <path
+         pointer-events="none"
+         d="m 9.9878259,7.5890498 c -0.393889,0.0014 -0.713053,0.317896 -0.713053,0.707987 l 0,0.296364 1.4273741,0 0,-0.301428 c -0.0038,-0.388828 -0.321698,-0.701659 -0.7143211,-0.702923 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12665248" />
+    </g>
   </g>
 </svg>

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" height="20px" width="20px" viewBox="0 0 75 75">
 <defs>
-<linearGradient id="PinkGradient" x1="1131.1" y1="-516.48" x2="1131.1" y2="-366.48" gradientTransform="translate(1149.48 525.13) rotate(-135)" gradientUnits="userSpaceOnUse">
+<linearGradient id="PinkGradient-50251681-2be3-456d-bd64-db8c5b5ba194" x1="1131.1" y1="-516.48" x2="1131.1" y2="-366.48" gradientTransform="translate(1149.48 525.13) rotate(-135)" gradientUnits="userSpaceOnUse">
 <stop offset="0" stop-color="#b0084d"></stop>
 <stop offset="1" stop-color="#ff4f8b"></stop>
 </linearGradient>
 </defs>
 <g>
-<rect data-name="Pink Gradient" style="fill:url(#PinkGradient);" width="75" height="75"></rect>
+<rect data-name="Pink Gradient" style="fill:url(#PinkGradient-50251681-2be3-456d-bd64-db8c5b5ba194);" width="75" height="75"></rect>
 <g data-name="Icon Test">
 <path fill="#fff" d="M53.33,58.7a4.83,4.83,0,1,1,3.43-1.41h0A4.83,4.83,0,0,1,53.33,58.7Zm0-7.69a2.85,2.85,0,0,0-2.85,2.85,2.82,2.82,0,0,0,.84,2,2.85,2.85,0,0,0,4,0h0a2.86,2.86,0,0,0,0-4A2.88,2.88,0,0,0,53.33,51Z"></path>
 <path fill="#fff" d="M60.15,42.41A4.85,4.85,0,1,1,63.58,41h0A4.87,4.87,0,0,1,60.15,42.41Zm0-7.7a2.85,2.85,0,1,0,2,4.87h0a2.85,2.85,0,0,0,.84-2,2.87,2.87,0,0,0-2.85-2.85Z"></path>

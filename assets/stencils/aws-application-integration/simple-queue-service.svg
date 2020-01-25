@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" height="20px" width="20px" viewBox="0 0 75 75">
 <defs>
-<linearGradient id="PinkGradient" x1="575.58" y1="207.32" x2="425.99" y2="199.48" gradientTransform="translate(535.43 -172.78) rotate(135)" gradientUnits="userSpaceOnUse">
+<linearGradient id="PinkGradient-aa8ea856-d66d-464e-b1f0-c07b09818320" x1="575.58" y1="207.32" x2="425.99" y2="199.48" gradientTransform="translate(535.43 -172.78) rotate(135)" gradientUnits="userSpaceOnUse">
 <stop offset="0" stop-color="#b0084d"></stop>
 <stop offset="1" stop-color="#ff4f8b"></stop>
 </linearGradient>
 </defs>
 <g>
-<rect data-name="Pink Gradient" style="fill:url(#PinkGradient);" width="75" height="75"></rect>
+<rect data-name="Pink Gradient" style="fill:url(#PinkGradient-aa8ea856-d66d-464e-b1f0-c07b09818320);" width="75" height="75"></rect>
 <g data-name="Icon Test">
 <path fill="#fff" d="M21.69,22a22.18,22.18,0,0,1,36.6,8.36l1.89-.66a24.18,24.18,0,0,0-45.65,0l1.89.66A21.84,21.84,0,0,1,21.69,22Z"></path>
 <path fill="#fff" d="M53,53a22.19,22.19,0,0,1-31.36,0,22,22,0,0,1-5.27-8.42l-1.89.66a24.18,24.18,0,0,0,39.93,9.17,23.89,23.89,0,0,0,5.78-9.25l-1.89-.64A22,22,0,0,1,53,53Z"></path>

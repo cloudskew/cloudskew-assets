@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" height="20px" width="20px" viewBox="0 0 75 75">
 <defs>
-<linearGradient id="PinkGradient" x1="806.75" y1="-382.13" x2="806.75" y2="-232.13" gradientTransform="translate(825.13 390.78) rotate(-135)" gradientUnits="userSpaceOnUse">
+<linearGradient id="PinkGradient-47d88b75-366d-4fef-9743-31840b2c6d12" x1="806.75" y1="-382.13" x2="806.75" y2="-232.13" gradientTransform="translate(825.13 390.78) rotate(-135)" gradientUnits="userSpaceOnUse">
 <stop offset="0" stop-color="#b0084d"></stop>
 <stop offset="1" stop-color="#ff4f8b"></stop>
 </linearGradient>
 </defs>
 <g>
-<rect data-name="Pink Gradient" style="fill:url(#PinkGradient);" width="75" height="75"></rect>
+<rect data-name="Pink Gradient" style="fill:url(#PinkGradient-47d88b75-366d-4fef-9743-31840b2c6d12);" width="75" height="75"></rect>
 <g data-name="Icon Test">
 <path fill="#fff" d="M54.58,50.92l0,.83c0-.1,0-.2,0-.3A2.33,2.33,0,0,1,54.58,50.92Z"></path>
 <path fill="#fff" d="M41.45,31l-.1.19a.72.72,0,0,0,.09-.2Z"></path>

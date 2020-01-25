@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" height="20px" width="20px" viewBox="0 0 75 75">
+<defs>
+<linearGradient id="RedGradient-1C780105-30D9-4C10-9B8A-4B5B25A470B4" x1="242.53" y1="-41.53" x2="136.47" y2="64.53" gradientTransform="translate(227 49) rotate(180)" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#bd0816"></stop>
+<stop offset="1" stop-color="#ff5252"></stop>
+</linearGradient>
+</defs>
+<g>
+<rect data-name="Red Gradient" style="fill:url(#RedGradient-1C780105-30D9-4C10-9B8A-4B5B25A470B4);" width="75" height="75"></rect>
+<g data-name="Icon Test">
+<path fill="#fff" d="M61.5,12.5h-48a1,1,0,0,0-1,1v48a1,1,0,0,0,1,1h48a1,1,0,0,0,1-1v-48A1,1,0,0,0,61.5,12.5Zm-2.42,2L37.5,36.09,15.92,14.5Zm1.42,46h-46V15.92L36.79,38.21a1,1,0,0,0,1.42,0L60.5,15.92Z"></path>
+</g>
+</g>
+</svg>

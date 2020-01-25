@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" height="20px" width="20px" viewBox="0 0 75 75">
 <defs>
-<style>.cls-1{fill:url(#OrangeGradient);}</style>
-<linearGradient id="OrangeGradient" x1="-15.54" y1="90.54" x2="90.53" y2="-15.53" gradientTransform="translate(0 0)" gradientUnits="userSpaceOnUse">
+<linearGradient id="OrangeGradient-6bfafdcb-1f54-48e5-b9fd-0d5927f215db" x1="-15.54" y1="90.54" x2="90.53" y2="-15.53" gradientTransform="translate(0 0)" gradientUnits="userSpaceOnUse">
 <stop offset="0" stop-color="#c8511b"></stop>
 <stop offset="1" stop-color="#f90"></stop>
 </linearGradient>
 </defs>
 <g>
-<rect id="Orange_Gradient" data-name="Orange Gradient" class="cls-1" width="75" height="75"></rect>
+<rect data-name="Orange Gradient" style="fill:url(#OrangeGradient-6bfafdcb-1f54-48e5-b9fd-0d5927f215db)" width="75" height="75"></rect>
 <g data-name="Icon Test">
 <g>
 <g data-name="LS-Icon 2px-Scaled-White">

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" height="20px" width="20px" viewBox="0 0 75 75">
+<defs>
+<linearGradient id="OrangeGradient-3dd861df-d58c-4501-8620-ff7bebd4458d" x1="-1788.05" y1="692.67" x2="-1788.05" y2="842.67" gradientTransform="translate(-1769.67 -684.02) rotate(-135)" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#c8511b"></stop>
+<stop offset="1" stop-color="#f90"></stop>
+</linearGradient>
+</defs>
+<g>
+<rect data-name="Orange Gradient" style="fill:url(#OrangeGradient-3dd861df-d58c-4501-8620-ff7bebd4458d)" width="75" height="75"></rect>
+<g data-name="Icon Test">
+<path fill="#fff" d="M60.5,62.5H48.18a1,1,0,0,1-.9-.57L29.86,25.5H22.49a1,1,0,0,1-1-1v-11a1,1,0,0,1,1-1H37.89a1,1,0,0,1,.9.57L56.13,49.5H60.5a1,1,0,0,1,1,1v11A1,1,0,0,1,60.5,62.5Zm-11.69-2H59.5v-9h-4a1,1,0,0,1-.9-.57L37.26,14.5H23.5v9h7a1,1,0,0,1,.9.57Z"></path>
+<path fill="#fff" d="M27.48,62.5h-13a1,1,0,0,1-.85-.47,1,1,0,0,1-.05-1L27.18,32.62a1,1,0,0,1,.9-.57h0a1,1,0,0,1,.9.56L35.49,46a1,1,0,0,1,0,.87l-7.1,15A1,1,0,0,1,27.48,62.5Zm-11.4-2H26.85l6.63-14L28.09,35.35Z"></path>
+</g>
+</g>
+</svg>

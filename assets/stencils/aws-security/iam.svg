@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" height="20px" width="20px" viewBox="0 0 75 75">
+<defs>
+<linearGradient id="RedGradient-972147DE-1B02-4DC7-BE9C-67F1225106A7" x1="-2417.47" y1="-41.53" x2="-2523.54" y2="64.54" gradientTransform="translate(-2433 49) rotate(180)" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#bd0816"></stop>
+<stop offset="1" stop-color="#ff5252"></stop>
+</linearGradient>
+</defs>
+<g>
+<rect data-name="Red Gradient" style="fill:url(#RedGradient-972147DE-1B02-4DC7-BE9C-67F1225106A7);" width="75" height="75"></rect>
+<g data-name="Icon Test">
+<path fill="#fff" d="M59.7,19H15.3a2.81,2.81,0,0,0-2.8,2.8V53.2A2.81,2.81,0,0,0,15.3,56H59.7a2.81,2.81,0,0,0,2.8-2.8V21.8A2.81,2.81,0,0,0,59.7,19Zm.8,34.2a.8.8,0,0,1-.8.8H15.3a.8.8,0,0,1-.8-.8V21.8a.8.8,0,0,1,.8-.8H59.7a.8.8,0,0,1,.8.8Z"></path>
+<rect fill="#fff" x="40.5" y="32" width="10" height="2"></rect>
+<rect fill="#fff" x="54.5" y="32" width="2" height="2"></rect>
+<path fill="#fff" d="M36.21,35.3A1,1,0,0,0,35.5,35h-14V30A3.63,3.63,0,0,1,23,27.15,5.74,5.74,0,0,1,26.5,26a5.55,5.55,0,0,1,3.6,1.26A3.64,3.64,0,0,1,31.5,30v5h2V29.6a5.07,5.07,0,0,0-2.11-4A7.92,7.92,0,0,0,26.5,24c-3.86,0-7,2.51-7,5.59V35h-2a1,1,0,0,0-1,1V50a1,1,0,0,0,1,1h18a1,1,0,0,0,1-1V36A1,1,0,0,0,36.21,35.3ZM34.5,40h-3v2h3v2h-3v2h3v3h-16V37h16Z"></path>
+<path fill="#fff" d="M26.5,38.57a2.93,2.93,0,0,0-1,5.68V47h2V44.25a2.93,2.93,0,0,0-1-5.68Zm0,4.2a1.27,1.27,0,1,1,1.27-1.27A1.27,1.27,0,0,1,26.5,42.77Z"></path>
+<rect fill="#fff" x="40.5" y="37" width="7" height="2"></rect>
+<rect fill="#fff" x="51.5" y="37" width="5" height="2"></rect>
+<rect fill="#fff" x="40.5" y="42" width="13" height="2"></rect>
+</g>
+</g>
+</svg>

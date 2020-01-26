@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="20px" height="20px" viewbox="0 0 75 75">
+<defs>
+<linearGradient id="PinkGradient-8238254c-f57c-4f3f-a0fb-6831c4e35ed6" x1="180.25" y1="431.13" x2="180.25" y2="281.13" gradientTransform="translate(161.87 -341.78) rotate(45)" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#b0084d"></stop>
+<stop offset="1" stop-color="#ff4f8b"></stop>
+</linearGradient>
+</defs>
+<g>
+<rect data-name="Pink Gradient" style="fill:url(#PinkGradient-8238254c-f57c-4f3f-a0fb-6831c4e35ed6)" width="75" height="75"></rect>
+<g data-name="Icon Test">
+<path fill="#fff" d="M36.5,16v9.45h2V16l4.66,4.65,1.41-1.41-6.36-6.37a1,1,0,0,0-1.42,0l-6.36,6.37,1.41,1.41Z"></path>
+<path fill="#fff" d="M38.5,59V49.43h-2V59l-4.66-4.66-1.41,1.42,6.36,6.36a1,1,0,0,0,1.42,0l6.36-6.36-1.41-1.42Z"></path>
+<path fill="#fff" d="M18.77,30.42l-1.41,1.42L22,36.43H12.5v2h9.59l-4.73,4.72,1.41,1.41,6.37-6.36a1,1,0,0,0,0-1.41Z"></path>
+<path fill="#fff" d="M62.5,36.43H53.05l4.59-4.59-1.42-1.42-6.36,6.37a1,1,0,0,0,0,1.41l6.36,6.36,1.42-1.41-4.73-4.72H62.5Z"></path>
+<path fill="#fff" d="M46,32.05l-8-4.5a1,1,0,0,0-1,0l-8,4.5a1,1,0,0,0-.51.87v9a1,1,0,0,0,.51.87l8,4.49a.94.94,0,0,0,.48.13.91.91,0,0,0,.48-.13l8-4.49a1,1,0,0,0,.51-.87v-9A1,1,0,0,0,46,32.05ZM37.5,29.59l6,3.38-6,3.48-6-3.48Zm-7,5.12,6,3.47v6.5l-6-3.37Zm8,10V38.19l6-3.48v6.6Z"></path>
+</g>
+</g>
+</svg>

@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" height="20px" width="20px" viewBox="0 0 75 75">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="20px" height="20px" viewbox="0 0 75 75">
 <defs>
-<linearGradient id="BlueGradient-7e2bd657-c03b-4cdc-b9da-393b8158ad2a" x1="-1150.47" y1="-1176.47" x2="-1256.53" y2="-1282.53" gradientTransform="translate(-1192 1241) rotate(90)" gradientUnits="userSpaceOnUse">
-<stop offset="0" stop-color="#2e27ad"></stop>
-<stop offset="1" stop-color="#527fff"></stop>
+<linearGradient id="TurquoiseGradient-de61a9c7-922d-4230-b86f-402fd188aef9" x1="559.53" y1="533.53" x2="453.47" y2="427.47" gradientTransform="translate(518 -469) rotate(90)" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#055f4e"></stop>
+<stop offset="1" stop-color="#56c0a7"></stop>
 </linearGradient>
 </defs>
 <g>
-<rect data-name="Blue Gradient" style="fill:url(#BlueGradient-7e2bd657-c03b-4cdc-b9da-393b8158ad2a);" width="75" height="75"></rect>
+<rect data-name="Turquoise Gradient" style="fill:url(#TurquoiseGradient-de61a9c7-922d-4230-b86f-402fd188aef9)" width="75" height="75"></rect>
 <g data-name="Icon Test">
 <path fill="#fff" d="M51.9,17.5c-.3-3.9-7.57-6-14.43-6S23.33,13.6,23,17.5h0v30c0,4.05,7.47,6.24,14.5,6.24S52,51.56,52,47.51v-30Zm-14.43-4c7.72,0,12.46,2.47,12.46,4.25S45.19,22,37.47,22,25,19.52,25,17.75,29.74,13.5,37.47,13.5Zm0,38.25C29.74,51.75,25,49.28,25,47.51V41.74c2.67,2,7.71,3,12.53,3s9.78-1,12.47-3v5.73C49.93,49.28,45.19,51.75,37.47,51.75Zm.06-9c-7.72,0-12.46-2.48-12.46-4.25H25V31.74c2.67,2,7.71,3,12.53,3s9.78-1,12.47-3V38.5C50,40.27,45.26,42.75,37.53,42.75Zm0-10c-7.72,0-12.46-2.48-12.46-4.25H25V21c2.69,1.94,7.68,3,12.47,3S47.33,23,50,21V28.5C50,30.27,45.26,32.75,37.53,32.75Z"></path>
 <rect fill="#fff" x="24" y="55.5" width="2" height="6"></rect>

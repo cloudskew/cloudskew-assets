@@ -6,7 +6,7 @@
 </linearGradient>
 </defs>
 <g>
-<rect id="Blue_Gradient" data-name="Blue Gradient" style="fill:url(#BlueGradient-668f764d-ba59-438e-a633-4435edc440f4);" width="75" height="75"></rect>
+<rect data-name="Blue Gradient" style="fill:url(#BlueGradient-668f764d-ba59-438e-a633-4435edc440f4);" width="75" height="75"></rect>
 <g data-name="Icon Test">
 <path fill="#fff" d="M25.38,29.53c-7.75,0-16-2.35-16-6.7s8.23-6.7,16-6.7,16,2.35,16,6.7S33.12,29.53,25.38,29.53Zm0-11.4c-8,0-14,2.48-14,4.7s6,4.7,14,4.7,14-2.48,14-4.7S33.37,18.13,25.38,18.13Z"></path>
 <rect fill="#fff" x="39.41" y="23.13" width="2" height="17"></rect>

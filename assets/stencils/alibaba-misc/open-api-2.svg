@@ -1,0 +1,15 @@
+<svg width="20px" height="20px" viewBox="0 0 41 41" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 1.000000)">
+            <g stroke="#00C1DE" stroke-width="1.6">
+                <rect fill="#FFFFFF" fill-rule="nonzero" x="0.6" y="0.6" width="38.4" height="38.4" rx="8"></rect>
+                <rect x="0.6" y="0.6" width="38.4" height="38.4" rx="8"></rect>
+            </g>
+            <g transform="translate(5.500000, 9.500000)">
+                <path d="M22.3734275,19.11 C26.1706105,19.11 29.24,16.44 29.24,13.14 C29.24,9.83 26.1706105,7.17 22.3734275,7.17 C22.3734275,7.17 17.3316124,7.1 14.3044137,13.55 C11.2772151,20 6.69950012,19.09 6.69950012,19.09 C6.69950012,19.09 -0.112299339,19.23 0.256871225,13.05 C0.63658952,6.88 8.4293279,8.65 8.4293279,8.65 C8.4293279,8.65 6.94209792,4.36 11.3721447,1.5 C15.8021915,-1.35 20.907293,1.24 23.0379345,7.19" stroke="#1ABFDE" stroke-width="1.3"></path>
+                <ellipse fill="#1ABFDE" fill-rule="nonzero" cx="8.24" cy="8.3" rx="3" ry="2.9135401"></ellipse>
+                <ellipse fill="#1ABFDE" fill-rule="nonzero" cx="24.24" cy="18.03" rx="3" ry="2.9135401"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

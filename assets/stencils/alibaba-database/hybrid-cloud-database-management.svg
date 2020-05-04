@@ -1,0 +1,13 @@
+<svg width="20px" height="20px" viewBox="0 0 41 41" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 1.000000)">
+            <g stroke="#00C1DE" stroke-width="1.6">
+                <rect fill="#FFFFFF" fill-rule="nonzero" x="0.6" y="0.6" width="38.4" height="38.4" rx="8"></rect>
+                <rect x="0.6" y="0.6" width="38.4" height="38.4" rx="8"></rect>
+            </g>
+            <g transform="translate(6.500000, 8.500000)" fill="#00C1DE" fill-rule="nonzero">
+                <path d="M17.23,15.07 L20.26,15.07 L17.23,9.82 L17.23,9.73 L17.15,9.73 L14.96,6.01 L15.04,10.65 L14.88,21.05 L9.5,21.05 L3.21,11.75 L10.19,0.09 L7.32,0.09 L0.36,11.77 L8.01,23.51 L16.99,23.51 L16.99,23.43 L17.07,23.43 L17.23,15.07 Z M19.57,0.11 L10.51,0.11 L10.35,8.55 L7.32,8.55 L10.35,13.7 L10.35,13.87 L10.43,13.87 L12.62,17.51 L12.54,12.95 L12.7,2.47 L18.08,2.47 L24.37,11.77 L17.39,23.51 L20.26,23.51 L27.24,11.77 L19.57,0.11 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

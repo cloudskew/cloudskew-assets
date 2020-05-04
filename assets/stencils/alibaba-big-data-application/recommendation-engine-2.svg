@@ -1,0 +1,13 @@
+<svg width="20px" height="20px" viewBox="0 0 41 41" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 1.000000)">
+            <g stroke="#00C1DE" stroke-width="1.6">
+                <rect fill="#FFFFFF" fill-rule="nonzero" x="0.6" y="0.6" width="38.4" height="38.4" rx="8"></rect>
+                <rect x="0.6" y="0.6" width="38.4" height="38.4" rx="8"></rect>
+            </g>
+            <g transform="translate(6.500000, 8.500000)" fill="#00C1DE" fill-rule="nonzero">
+                <path d="M27.24,17.1 L19.93,11.12 L19.93,14.04 L16.78,14.04 L16.78,8.15 L19.7,8.15 L13.86,0.65 L7.9,7.97 L10.82,7.97 L10.82,14.04 L7.67,14.04 L7.67,11.12 L0.36,17.1 L7.86,22.95 L7.86,20.03 L13.45,20.03 L14.15,20.03 L19.74,20.03 L19.74,22.95 L27.24,17.1 Z M12.52,18.78 L12.52,18.78 L6.47,18.78 L6.47,20.56 L2,16.9 L6.57,13.33 L6.57,15.12 L11.98,15.12 L12.04,7.26 L10.28,7.26 L13.94,2.79 L17.51,7.37 L15.73,7.37 L15.66,15.12 L20.78,15.12 L20.78,13.33 L25.25,17 L20.68,20.56 L20.68,18.78 L12.52,18.78 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

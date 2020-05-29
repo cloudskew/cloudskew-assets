@@ -1,4 +1,4 @@
-# Deploys cloudskew-landing to testing environment (blob storage accessed via cdn).
+# Deploys cloudskew-assets to testing environment (blob storage accessed via cdn).
 
 pool:
   vmImage: ubuntu-latest
@@ -6,7 +6,7 @@ pool:
 trigger:
   - master
 
-name: cloudskew-cdn.testing
+name: cloudskew-assets.testing
 
 variables:
   - group: cloudskew-variable-group

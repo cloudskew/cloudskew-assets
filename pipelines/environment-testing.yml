@@ -15,5 +15,8 @@ stages:
   - template: templates/stages.yml
     parameters:
       azureSubscription: $(testing-service-connection)
+      cdnEndpointName: $(testing-cdnendpoint-name-cloudskew-cdn)
+      cdnProfileName: $(testing-cdnprofile-name-cloudskew-cdn)
+      cdnResourceGroupName: $(testing-resource-group-cloudskew-cdn)
       environment: testing
       storageAccountName: $(testing-storageaccount-name-cloudskew-cdn)

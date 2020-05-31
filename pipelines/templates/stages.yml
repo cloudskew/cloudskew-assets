@@ -2,6 +2,9 @@ parameters:
   # default values for any parameters that aren't specified.
   # please keep this list alphabetically sorted.
   azureSubscription: ''
+  cdnEndpointName: ''
+  cdnProfileName: ''
+  cdnResourceGroupName: ''
   environment: ''
   storageAccountName: ''
 
@@ -56,3 +59,10 @@ stages:
                     azureSubscription: ${{parameters.azureSubscription}}
                     scriptLocation: inlineScript
                     inlineScript: az storage blob sync --account-name ${{parameters.storageAccountName}} -c 'assets' -s './assets'
+                # Purge the CDN endpoint
+                - task: AzureCLI@1
+                  displayName: purge CDN endpoint
+                  inputs:
+                    azureSubscription: ${{parameters.azureSubscription}}
+                    scriptLocation: inlineScript
+                    inlineScript: az cdn endpoint purge --no-wait --content-paths '/*' -n ${{parameters.cdnEndpointName}} -g ${{parameters.cdnResourceGroupName}} --profile-name ${{parameters.cdnProfileName}}

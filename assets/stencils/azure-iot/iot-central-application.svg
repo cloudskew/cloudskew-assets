@@ -1,6 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="20px" height="20px" viewBox="0 0 50 50">
-<g>
-<path fill="#0072c6" d="M 25 36.43 l 9.266 -5.56 V 19.13 L 25 13.57 l -9.267 5.56 v 11.74 L 25 36.43 Z"></path>
-<path fill="#0072c6" d="M 25 0.287 L 3.375 12.644 v 8.343 l 10.194 5.87 v -4.638 l -6.178 -3.707 v -3.4 L 25 4.922 l 17.608 10.192 v 19.773 L 25 45.078 L 3.376 32.722 v 4.634 L 25 49.712 l 21.624 -12.356 V 12.643 L 25 0.287 Z"></path>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" id="b8a5deb0-257d-4029-9ed0-a02518e9a519" x="0" y="0" width="20px" height="20px" viewBox="0 0 18 18">
+<path d="M9,0,1.15,4.49v3L4.2,9.34V7.54L2.6,6.62V5.38L9,1.68l6.4,3.71v7.18L9,16.27,1.15,11.78v1.68L9,18l7.85-4.49v-9Z" fill="#a3a3a3"></path>
+<polygon points="9 0 9 0 1.15 4.49 2.6 5.38 9 1.68 9 1.68 15.4 5.38 16.85 4.49 9 0" fill="#949494"></polygon>
+<polygon points="13.25 6.54 13.25 11.46 9 13.93 9 9.01 13.25 6.54" fill="#32bedd"></polygon>
+<polygon points="13.25 6.54 9 9.01 4.75 6.54 9 4.07 13.25 6.54" fill="#9cebff"></polygon>
+<polygon points="9 9.01 9 13.93 4.75 11.46 4.75 6.54 9 9.01" fill="#50e6ff"></polygon>
+<polygon points="4.75 11.46 9 9.01 9 13.93 4.75 11.46" fill="#9cebff"></polygon>
+<polygon points="13.25 11.46 9 9.01 9 13.93 13.25 11.46" fill="#50e6ff"></polygon>
 </svg>

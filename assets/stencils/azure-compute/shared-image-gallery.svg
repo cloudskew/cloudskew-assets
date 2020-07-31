@@ -1,18 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" height="20px" width="20px" viewBox="0 0 50 50">
+<svg xmlns="http://www.w3.org/2000/svg" id="b477a1e6-3b3d-43e7-938b-88464f2dd176" x="0" y="0" width="20px" height="20px" viewBox="0 0 18 18">
+<defs>
+<linearGradient id="bc25fd79-1e91-4c2f-8691-1f9665f6d0dc" x1="9" y1="17.44" x2="9" y2="11.44" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0078d4"></stop>
+<stop offset="0.82" stop-color="#5ea0ef"></stop>
+</linearGradient>
+</defs>
 <g>
-<path fill="#0072c6" d="M 1 30 h 48 v 20 H 1 Z"></path>
-<path opacity="0.2" fill="#ffffff" d="M 1 30 v 20 h 13.44 l 18.24 -20 Z"></path>
-<path fill="#3999c6" d="M 2 2 v 27 h 3 V 5 h 26 v 24 h 3 V 2 Z"></path>
-<path fill="#804998" d="M 42.5 11 H 45 v 18 h 3 V 8 h -5.5 Z"></path>
-<path fill="#7fba00" d="M 34.5 8 H 39 v 21 h 3 V 5 h -7.5 Z"></path>
-<path fill="#3999c6" d="M 5 5 h 26 v 24 H 5 Z"></path>
-<path opacity="0.5" fill="#ffffff" d="M 5 5 h 26 v 24 H 5 Z"></path>
-<path fill="#7fba00" d="M 34.5 8 H 39 v 21 h -4.5 Z"></path>
-<path fill="#804998" d="M 46 11 v 18 h -3.5 V 11"></path>
-<path opacity="0.6" fill="#ffffff" d="M 42.5 11 H 45 v 18 h -2.5 Z m -8 -3 H 39 v 21 h -4.5 Z"></path>
-<path opacity="0.5" fill="#3999c6" d="M 10.642 26.451 L 15.002 29 h 6.044 c 1.593 -0.929 3.554 -2.075 4.318 -2.526 c 0.562 -0.332 0.931 -0.614 1.175 -0.93 A 1.42 1.42 0 0 0 27 24.505 v -8.931 c 0 -0.426 -0.194 -0.814 -0.505 -1.075 c -0.245 -0.292 -0.602 -0.558 -1.137 -0.87 l -6.672 -3.9 a 1.413 1.413 0 0 0 -0.704 -0.187 c -0.249 0 -0.496 0.066 -0.716 0.191 c 0 0 -5.254 3.062 -6.629 3.874 c -0.562 0.332 -0.931 0.614 -1.175 0.93 A 1.41 1.41 0 0 0 9 15.574 v 8.931 c 0 0.426 0.194 0.814 0.505 1.075 c 0.245 0.293 0.602 0.559 1.137 0.871 Z"></path>
-<path fill="#ffffff" d="M 18.021 19.125 a 0.202 0.202 0 0 1 -0.101 -0.029 L 11.257 15.2 a 0.205 0.205 0 0 1 0 -0.353 l 6.622 -3.87 a 0.202 0.202 0 0 1 0.199 0 l 6.665 3.897 a 0.202 0.202 0 0 1 0.099 0.176 a 0.2 0.2 0 0 1 -0.099 0.176 l -6.62 3.869 a 0.198 0.198 0 0 1 -0.102 0.03"></path>
-<path opacity="0.8" fill="#ffffff" d="M 17.164 20.417 l -6.642 -3.882 a 0.195 0.195 0 0 0 -0.203 0 a 0.203 0.203 0 0 0 -0.103 0.177 v 7.899 c 0 0.074 0.039 0.14 0.098 0.179 l 6.642 3.882 c 0.066 0.038 0.306 0.022 0.306 -0.177 v -7.899 a 0.214 0.214 0 0 0 -0.098 -0.179 Z"></path>
-<path opacity="0.5" fill="#ffffff" d="M 18.836 20.417 l 6.642 -3.882 a 0.195 0.195 0 0 1 0.203 0 a 0.203 0.203 0 0 1 0.103 0.177 v 7.899 c 0 0.074 -0.039 0.14 -0.098 0.179 l -6.642 3.882 c -0.066 0.038 -0.306 0.022 -0.306 -0.177 v -7.899 c 0 -0.074 0.039 -0.141 0.098 -0.179 Z"></path>
+<rect x="5.62" y="0.56" width="9.97" height="12.48" rx="0.42" fill="#005ba1"></rect>
+<rect x="4.11" y="1.91" width="9.97" height="12.48" rx="0.42" fill="#0078d4"></rect>
+<rect x="2.58" y="3.27" width="9.97" height="12.48" rx="0.42" fill="#32bedd"></rect>
+<g>
+<polygon points="10.48 6.99 10.48 10.38 7.57 12.08 7.57 8.69 10.48 6.99" fill="#50e6ff"></polygon>
+<polygon points="10.48 6.99 7.57 8.7 4.66 6.99 7.57 5.29 10.48 6.99" fill="#c3f1ff"></polygon>
+<polygon points="7.57 8.7 7.57 12.08 4.66 10.38 4.66 6.99 7.57 8.7" fill="#9cebff"></polygon>
+<polygon points="4.66 10.38 7.57 8.69 7.57 12.08 4.66 10.38" fill="#c3f1ff"></polygon>
+<polygon points="10.48 10.38 7.57 8.69 7.57 12.08 10.48 10.38" fill="#9cebff"></polygon>
+</g>
+<rect x="0.56" y="11.44" width="16.87" height="5.99" rx="0.56" fill="url(#bc25fd79-1e91-4c2f-8691-1f9665f6d0dc)"></rect>
+<rect x="6.6" y="12.92" width="4.81" height="0.87" rx="0.43" fill="#f2f2f2"></rect>
 </g>
 </svg>

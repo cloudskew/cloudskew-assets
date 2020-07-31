@@ -1,11 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="20px" height="20px" viewBox="0 0 50 50" xml:space="preserve">
-<rect y="24.731" fill="#0072C6" width="8.784" height="25.269"></rect>
-<rect x="13.739" y="17.788" fill="#59B4D9" width="8.784" height="32.212"></rect>
-<rect x="27.462" y="28.789" fill="#3999C6" width="8.814" height="21.211"></rect>
-<rect x="41.216" y="21.204" fill="#0072C6" width="8.784" height="28.796"></rect>
-<polygon fill="#68217A" points="31.064,20.329 21.3,6.112 4.417,18.517 3.095,16.718 21.835,2.948 31.485,16.997 46.541,3.847   47.492,4.936 46.651,5.67 47.169,6.263 "></polygon>
-<circle fill="#804998" cx="3.349" cy="17.754" r="3.349"></circle>
-<circle fill="#804998" cx="21.502" cy="4.874" r="3.349"></circle>
-<circle fill="#804998" cx="31.044" cy="18.663" r="3.349"></circle>
-<circle fill="#804998" cx="46.651" cy="5.342" r="3.349"></circle>
+<svg xmlns="http://www.w3.org/2000/svg" id="b4a9b507-f080-4dfa-ae5b-d825e132a26b" x="0" y="0" width="20px" height="20px" viewBox="0 0 18 18">
+<defs>
+<linearGradient id="e1d73f47-752a-4159-9841-f0e298db8522" x1="6.57" y1="7.06" x2="6.57" y2="3.76" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#773adc"></stop>
+<stop offset="1" stop-color="#b77af4"></stop>
+</linearGradient>
+<linearGradient id="e8c6440a-2701-4507-8d04-c5dedd18bcf2" x1="11.02" y1="11.15" x2="11.02" y2="7.86" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#773adc"></stop>
+<stop offset="1" stop-color="#b77af4"></stop>
+</linearGradient>
+<linearGradient id="b40385c6-522c-4b7d-afa0-c8216f314bdf" x1="15.15" y1="3.79" x2="15.15" y2="0.5" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#773adc"></stop>
+<stop offset="1" stop-color="#b77af4"></stop>
+</linearGradient>
+<linearGradient id="a5c9d1e7-33fb-4353-b4bd-5d3732a54634" x1="2.85" y1="11.86" x2="2.85" y2="8.57" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#773adc"></stop>
+<stop offset="1" stop-color="#b77af4"></stop>
+</linearGradient>
+</defs>
+<polygon points="14.73 1.62 10.74 8.72 6.52 4.42 2.17 10.06 3.19 10.86 6.64 6.41 11.02 10.88 15.86 2.27 14.73 1.62" fill="#b796f9"></polygon>
+<ellipse cx="6.57" cy="5.41" rx="1.64" ry="1.65" fill="url(#e1d73f47-752a-4159-9841-f0e298db8522)"></ellipse>
+<ellipse cx="11.02" cy="9.5" rx="1.64" ry="1.65" fill="url(#e8c6440a-2701-4507-8d04-c5dedd18bcf2)"></ellipse>
+<ellipse cx="15.15" cy="2.15" rx="1.64" ry="1.65" fill="url(#b40385c6-522c-4b7d-afa0-c8216f314bdf)"></ellipse>
+<ellipse cx="2.85" cy="10.22" rx="1.64" ry="1.65" fill="url(#a5c9d1e7-33fb-4353-b4bd-5d3732a54634)"></ellipse>
+<rect x="5.67" y="9.92" width="2.58" height="7.58" rx="0.28" fill="#0078d4"></rect>
+<rect x="9.78" y="12.54" width="2.58" height="4.96" rx="0.28" fill="#005ba1"></rect>
+<rect x="13.89" y="7.38" width="2.58" height="10.12" rx="0.28" fill="#005ba1"></rect>
+<rect x="1.56" y="12.54" width="2.58" height="4.96" rx="0.28" fill="#5ea0ef"></rect>
 </svg>

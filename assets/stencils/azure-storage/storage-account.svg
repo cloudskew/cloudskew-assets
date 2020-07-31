@@ -1,10 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" height="20px" width="20px" viewBox="0 0 50 50">
-<path fill="#3E3E3E" d="M44,0H6C2.686,0,0,2.686,0,6v8v22v8c0,3.314,2.686,6,6,6h38c3.314,0,6-2.686,6-6v-8V14V6 C50,2.686,47.314,0,44,0z"></path>
-<rect x="4" y="20" fill="#B8D432" width="42" height="11"></rect>
-<rect x="4" y="35" fill="#804998" width="42" height="11"></rect>
-<rect x="4" y="5" fill="#59B4D9" width="42" height="11"></rect>
-<rect x="4" y="20" opacity="0.25" fill="#FFFFFF" width="42" height="2"></rect>
-<rect x="4" y="5" opacity="0.2" fill="#FFFFFF" width="42" height="2"></rect>
-<rect x="4" y="35" opacity="0.4" fill="#FFFFFF" width="42" height="2"></rect>
-<path opacity="0.15" fill="#FFFFFF" d="M6,50h2.88L42.994,0H6C2.686,0,0,2.686,0,6v8v22v8 C0,47.314,2.686,50,6,50z"></path>
+<svg xmlns="http://www.w3.org/2000/svg" id="f2f04349-8aee-4413-84c9-a9053611b319" x="0" y="0" width="20px" height="20px" viewBox="0 0 18 18">
+<defs>
+<linearGradient id="ad4c4f96-09aa-4f91-ba10-5cb8ad530f74" x1="9" y1="15.83" x2="9" y2="5.79" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#b3b3b3"></stop>
+<stop offset="0.26" stop-color="#c1c1c1"></stop>
+<stop offset="1" stop-color="#e6e6e6"></stop>
+</linearGradient>
+</defs>
+<path d="M.5,5.79h17a0,0,0,0,1,0,0v9.48a.57.57,0,0,1-.57.57H1.07a.57.57,0,0,1-.57-.57V5.79A0,0,0,0,1,.5,5.79Z" fill="url(#ad4c4f96-09aa-4f91-ba10-5cb8ad530f74)"></path>
+<path d="M1.07,2.17H16.93a.57.57,0,0,1,.57.57V5.79a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V2.73A.57.57,0,0,1,1.07,2.17Z" fill="#37c2b1"></path>
+<path d="M2.81,6.89H15.18a.27.27,0,0,1,.26.27v1.4a.27.27,0,0,1-.26.27H2.81a.27.27,0,0,1-.26-.27V7.16A.27.27,0,0,1,2.81,6.89Z" fill="#fff"></path>
+<path d="M2.82,9.68H15.19a.27.27,0,0,1,.26.27v1.41a.27.27,0,0,1-.26.27H2.82a.27.27,0,0,1-.26-.27V10A.27.27,0,0,1,2.82,9.68Z" fill="#37c2b1"></path>
+<path d="M2.82,12.5H15.19a.27.27,0,0,1,.26.27v1.41a.27.27,0,0,1-.26.27H2.82a.27.27,0,0,1-.26-.27V12.77A.27.27,0,0,1,2.82,12.5Z" fill="#258277"></path>
 </svg>

@@ -1,11 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="20px" height="20px" viewBox="0 0 50 50">
+<svg xmlns="http://www.w3.org/2000/svg" id="a7fced15-da9f-41e0-8b9e-21a862586c87" x="0" y="0" width="20px" height="20px" viewBox="0 0 18 18">
+<defs>
+<linearGradient id="ace104d6-1f53-40e3-a991-cb43c1f1aa51" x1="5.82" y1="25.68" x2="5.82" y2="14.64" gradientTransform="translate(0 -11.41) scale(1 1.01)" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#5e9624"></stop>
+<stop offset="0.01" stop-color="#5f9724"></stop>
+<stop offset="0.35" stop-color="#6cab29"></stop>
+<stop offset="0.68" stop-color="#73b82c"></stop>
+<stop offset="1" stop-color="#76bc2d"></stop>
+</linearGradient>
+</defs>
+<path d="M18,9.16l-2.12,2.12a.1.1,0,0,1-.18-.08V10a.11.11,0,0,0-.11-.1H12.09L14.27,12a.09.09,0,0,0,.12,0l0,0,.61-.62a.08.08,0,0,1,.14.06v2.19a.12.12,0,0,1-.12.12H12.87a.08.08,0,0,1-.06-.14l.62-.61,0,0a.09.09,0,0,0,0-.12L11.64,11V7.17l1.83-1.82a.08.08,0,0,0,0-.11l0,0-.62-.61a.08.08,0,0,1,.06-.14h2.19a.13.13,0,0,1,.12.13V6.75a.08.08,0,0,1-.14.06l-.61-.61,0,0a.09.09,0,0,0-.12,0L12.12,8.31h3.43a.11.11,0,0,0,.11-.11V7a.1.1,0,0,1,.18-.08L18,9A.1.1,0,0,1,18,9.16Z" fill="#0078d4"></path>
+<rect y="3.41" width="11.64" height="11.18" rx="0.58" fill="url(#ace104d6-1f53-40e3-a991-cb43c1f1aa51)"></rect>
 <g>
-<path fill="#804998" d="M 41.681 36.313 L 39.199 46 l -8.605 -5.095 Z"></path>
-<path fill="#804998" d="M 24.025 25.996 s -0.475 0.862 -1 1 c 6.594 0 10.902 10.95 13.469 17.34 l 3.331 -0.962 c -2.623 -6.939 -5.8 -17.378 -15.8 -17.378 Z m 17.656 -12.317 l -2.482 -9.687 l -8.605 5.095 Z"></path>
-<path fill="#804998" d="M 24.025 23.996 s -0.475 -0.862 -1 -1 c 6.594 0 10.902 -10.95 13.469 -17.34 l 3.331 0.962 c -2.623 6.939 -5.8 17.378 -15.8 17.378 Z m 18.018 -5 l 8 6 l -8 6 Z"></path>
-<path fill="#804998" d="M 45.204 22.996 V 27 H 21 v -4.004 Z"></path>
-<path fill="#7fba00" d="M 4.754 38 H 19 a 4.754 4.754 0 0 0 4.754 -4.754 V 16.75 A 4.754 4.754 0 0 0 19 11.996 H 4.754 A 4.753 4.753 0 0 0 0 16.75 v 16.497 A 4.753 4.753 0 0 0 4.754 38 Z"></path>
-<path opacity="0.2" fill="#ffffff" d="M 4.754 38 L 19 11.996 H 4.754 A 4.753 4.753 0 0 0 0 16.75 v 16.497 A 4.753 4.753 0 0 0 4.754 38 Z"></path>
-<path fill="#ffffff" d="M 14 21.996 h 6 v 6 h -6 Z M 4 16 h 6 v 6 H 4 Z m 0 12 h 6 v 6 H 4 Z"></path>
+<rect x="2.27" y="4.78" width="2.73" height="2.61" rx="0.29" fill="#fff"></rect>
+<rect x="6.92" y="7.77" width="2.73" height="2.61" rx="0.29" fill="#fff"></rect>
+<rect x="2.27" y="10.61" width="2.73" height="2.61" rx="0.29" fill="#fff"></rect>
 </g>
 </svg>

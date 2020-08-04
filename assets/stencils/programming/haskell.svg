@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="20px" height="20px" viewBox="0 0 170 120">
+<g style="fill: rgb(102,102,102);">
+<path d="M 0 120 L 40 60 L 0 0 L 30 0 L 70 60 L 30 120"></path>
+<path d="M 136.666667 85 L 123.333333 65 L 170 65 L 170 85"></path>
+<path d="M 116.666667 55 L 103.333333 35 L 170 35 L 170 55"></path>
+</g>
+<g style="fill: rgb(153,153,153);">
+<path d="M 40 120 L 80 60 L 40 0 L 70 0 L 150 120 L 120 120 L 95 82.5 L 70 120"></path>
+</g>
+</svg>

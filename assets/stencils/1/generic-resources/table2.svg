@@ -1,9 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="20px" height="20px" viewBox="0 0 85 85">
-<g fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
-<use xlink:href="#A" x="2.5" y="2.5"></use>
-<symbol id="A" overflow="visible">
-<path d="M12.667 16.4H0v-3.393l6.333-9.603 6.333 9.603V16.4zM80 16.4H18v-3.393l31-9.603 31 9.603V16.4zM12.667 37.592H0V34.2l6.333-9.603 6.333 9.603v3.393zm67.333 0H18V34.2l31-9.603L80 34.2v3.393zM12.667 58.796H0v-3.393L6.333 45.8l6.333 9.603v3.393zm67.333 0H18v-3.393L49 45.8l31 9.603v3.393zM12.667 80H0v-3.393l6.333-9.603 6.333 9.603V80zM80 80H18v-3.393l31-9.603 31 9.603V80z" fill="#19486f" stroke="none"></path>
-<path d="M18 0h62v12.996H18zm0 21.204h62V34.2H18zm0 21.204h62v12.996H18zm0 21.204h62v12.996H18zM0 0h12.667v12.996H0zm0 21.204h12.667V34.2H0zm0 21.204h12.667v12.996H0zm0 21.204h12.667v12.996H0z" stroke="none" fill="#2e73b8"></path>
-</symbol>
+<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="20px" height="20px" viewBox="0 0 64 64">
+<g stroke="#464646" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-rule="nonzero">
+<g fill="#fffbcc">
+<path d="M5.5 13.5h13v9h-13z"></path>
+<path d="M18.5 13.5h13v9h-13z"></path>
+<path d="M31.5 13.5h13v9h-13z"></path>
+<path d="M44.5 13.5h13v9h-13z"></path>
+</g>
+<path d="M5.5 22.5h13v9h-13z"></path>
+<path d="M18.5 22.5h13v9h-13z"></path>
+<path d="M31.5 22.5h13v9h-13z"></path>
+<path d="M44.5 22.5h13v9h-13zm-39 9h13v9h-13z"></path>
+<path d="M18.5 31.5h13v9h-13z"></path>
+<path d="M31.5 31.5h13v9h-13z"></path>
+<path d="M44.5 31.5h13v9h-13zm-39 9h13v9h-13z"></path>
+<path d="M18.5 40.5h13v9h-13z"></path>
+<path d="M31.5 40.5h13v9h-13z"></path>
+<path d="M44.5 40.5h13v9h-13z"></path>
 </g>
 </svg>

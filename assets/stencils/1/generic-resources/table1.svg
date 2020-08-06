@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="20px" height="20px" viewBox="0 0 64 64">
+<g stroke="#464646" stroke-linecap="round" stroke-linejoin="round" fill="#fff" fill-rule="nonzero">
+<path d="M5.5 13.5h13v9h-13z"></path>
+<path d="M18.5 13.5h13v9h-13z"></path>
+<path d="M31.5 13.5h13v9h-13z"></path>
+<path d="M44.5 13.5h13v9h-13zm-39 9h13v9h-13z"></path>
+<path d="M18.5 22.5h13v9h-13z"></path>
+<path d="M31.5 22.5h13v9h-13z"></path>
+<path d="M44.5 22.5h13v9h-13zm-39 9h13v9h-13z"></path>
+<path d="M18.5 31.5h13v9h-13z"></path>
+<path d="M31.5 31.5h13v9h-13z"></path>
+<path d="M44.5 31.5h13v9h-13zm-39 9h13v9h-13z"></path>
+<path d="M18.5 40.5h13v9h-13z"></path>
+<path d="M31.5 40.5h13v9h-13z"></path>
+<path d="M44.5 40.5h13v9h-13z"></path>
+</g>
+</svg>

@@ -6,6 +6,8 @@ pool:
 trigger:
   - master
 
+pr: none
+
 name: cloudskew-assets.testing
 
 variables:

@@ -1,10 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" height="20px" width="20px" viewBox="0 0 100 100">
-<defs>
-<clipPath id="clip0-9CCC4680-CF19-4E89-BD0E-3DA2DCF59749">
-<path d="M647 359 742 359 742 478 647 478Z" fill-rule="evenodd" clip-rule="evenodd"></path>
-</clipPath>
-</defs>
-<g clip-path="url(#clip0-9CCC4680-CF19-4E89-BD0E-3DA2DCF59749)" transform="translate(-647 -359)">
-<path d="M0-3.5 52-3.5 52 70.0001 48.5 66.5001 79.5001 66.5001 79.5001 73.5001 45 73.5001 45 0 48.5 3.5 0 3.5ZM76.0001 59.5001 97.0001 70.0001 76.0001 80.5001Z" transform="matrix(-4.37114e-08 1 1 4.37114e-08 651.5 360.5)"></path>
+<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" height="20px" width="20px" viewBox="0 0 200 200">
+<g>
+<path d="M 16 16 L 16 176 L 131.88 176" fill="none" stroke="#000000" stroke-width="18" stroke-miterlimit="10"></path>
+<path d="M 155.88 176 L 131.88 188 L 131.88 164 Z" fill="#000000" stroke="#000000" stroke-width="18" stroke-miterlimit="10"></path>
 </g>
 </svg>

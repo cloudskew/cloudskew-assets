@@ -1,7 +1,7 @@
 # Deploys cloudskew-assets to production environment (blob storage accessed via cdn).
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: ubuntu-18.04
 
 trigger: none
 

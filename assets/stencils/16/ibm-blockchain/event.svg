@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="20px" height="20px">
+<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="20px" height="20px" viewBox="0 0 56 56">
 <circle cx="27.5" cy="27.5" r="27.5" fill="#90c740"></circle>
 <path d="M10 13.5v27.9h34.9V13.5zm32.6 25.7H12.4V20.5h30.2z" fill="#fff"></path>
 <g stroke-miterlimit="10" fill="none" stroke="#fff" stroke-width=".138">
